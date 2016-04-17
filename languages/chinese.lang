@@ -1,11 +1,11 @@
 # Loadiine GX2 language source file.
-# chinese.lang - v0.3
+# chinese.lang - v0.31
 # don't delete/change this line (é).
 msgid ""
 msgstr ""
 "Project-Id-Version: Loadiine GX2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-15 21:57+0200\n"
+"POT-Creation-Date: 2016-04-17 21:57+0200\n"
 "PO-Revision-Date: 2009-10-01 01:00+0200\n"
 "Last-Translator: kavid by 91wii.com \n"
 "Language-Team: 91wii.com\n"
@@ -24,7 +24,7 @@ msgid "Coding:"
 msgstr "代码编写："
 
 msgid "Design:"
-msgstr "设计："
+msgstr "界面设计："
 
 msgid "Some guy who doesn't want to be named."
 msgstr "有些人不想被提到名字。"
@@ -36,19 +36,19 @@ msgid "Cyan / Maschell / n1ghty / OnionKnight and many more"
 msgstr "Cyan / Maschell / n1ghty / OnionKnight 等等更多人"
 
 msgid "Social Presence:"
-msgstr "社会参与人员："
+msgstr "参与人员："
 
 msgid "Based on:"
-msgstr "基于："
+msgstr "项目来源："
 
 msgid "Loadiine v4.0 by Golden45 and Dimok"
 msgstr "Loadiine v4.0作者Golden45和Dimok"
 
 msgid "Big thanks to:"
-msgstr "强烈感谢："
+msgstr "十分感谢："
 
 msgid "lustar for GameTDB and hosting covers / disc images"
-msgstr "lustar的GameTDB与提供的封面和光盘封面"
+msgstr "lustar的GameTDB网站并提供的封面和光盘封面"
 
 msgid "Marionumber1 for his kernel exploit"
 msgstr "Marionumber1开发的内核破解程序"
@@ -153,7 +153,7 @@ msgid "Log Server IP"
 msgstr "日志服务器IP"
 
 msgid "PyGecko"
-msgstr ""
+msgstr "金手指"
 
 msgid "Padcon"
-msgstr ""
+msgstr "PAD屏幕控制"
